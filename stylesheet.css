@@ -1,0 +1,64 @@
+body{
+    background:  #99cccc;
+    
+}
+#nav_logo_section{
+    /*margin-bottom: 15em;*/
+    font-size: 1.7em;
+    padding: 0.5em 1.5em 0.5em 1.5em;
+    display: block;
+    background-color: #cc99ff;
+   
+}
+
+.container{
+    background-color: #bbbbbb;
+    height: 300px;
+    padding-right:50px;
+
+
+}
+
+.section_central{
+    background-color: #ff0048;
+    display: inline-block;
+    margin: 1em 1em 1em 1em;
+    background: url(above-clouds-cloudy-2596.jpg) no-repeat center;
+    background-size: cover;
+    clear: both;
+    float: left;
+    width: 500px;
+    height:200px;
+    position: relative;
+
+}
+.div_right{
+    background-color: #cd3700;
+    display: inline-block;
+    margin: 1em 1em 1em 1em;
+    background: url(apple-browser-computer-3080.jpg) no-repeat center; 
+    background-size: cover;
+    position: relative;
+    float:right;
+    width: 500px;
+   
+
+
+}
+p{
+    font-family: sans-serif; color: #0000ee;
+    font-size: 12px;
+    font-style: normal;    
+
+}
+
+#last_section{
+    background-color: #cd3700;
+    padding-bottom: 1.5em;
+    background: url(music-music-player-record-player-1791.jpg) no-repeat center;
+    font-size: 1.6em;
+	position: relative;
+    clear:both;
+
+
+}
