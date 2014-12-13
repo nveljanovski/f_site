@@ -1,6 +1,10 @@
 body{
-    background:  #99cccc;
+    background:  #e0efef;
     
+}
+.homepage{
+   padding-top: 0px;
+    padding-bottom: 0px;
 }
 #nav_logo_section{
     /*margin-bottom: 15em;*/
@@ -12,50 +16,57 @@ body{
 }
 
 .container{
-    background-color: #bbbbbb;
+    background-color:#e0efef;
     height: 300px;
-    padding-right:50px;
-
+    /*width: 92.9681717%;*/
+    /*padding-right:50px;*/
+    display: table;
 
 }
 
 .section_central{
-    background-color: #ff0048;
+    background-color: #e0efef;
     display: inline-block;
-    margin: 1em 1em 1em 1em;
-    background: url(above-clouds-cloudy-2596.jpg) no-repeat center;
+    margin-left: 50px;
+    padding-left: 20px;
+    padding-top: 50px;
+    /*background: url(above-clouds-cloudy-2596.jpg) no-repeat center;*/
     background-size: cover;
     clear: both;
     float: left;
-    width: 500px;
-    height:200px;
-    position: relative;
+    width: 33.33%;
+    vertical-align:middle;
+/*    position: relative;*/
 
 }
 .div_right{
-    background-color: #cd3700;
+    background-color: #e0efef;
     display: inline-block;
-    margin: 1em 1em 1em 1em;
-    background: url(apple-browser-computer-3080.jpg) no-repeat center; 
+    margin-right: 50px;
+    padding-right: 20px;
+    padding-top: 50px;
+    /*background: url(apple-browser-computer-3080.jpg) no-repeat center; */
     background-size: cover;
     position: relative;
     float:right;
-    width: 500px;
-   
+    width: 33.33%;
+    vertical-align: middle;
+ 
 
 
 }
 p{
     font-family: sans-serif; color: #0000ee;
     font-size: 12px;
-    font-style: normal;    
+    font-style: normal;  
+    padding: 5px 5px;
 
 }
 
 #last_section{
     background-color: #cd3700;
     padding-bottom: 1.5em;
-    background: url(music-music-player-record-player-1791.jpg) no-repeat center;
+    background: url(music-music-player-record-player-1791.jpg) center;
     font-size: 1.6em;
 	position: relative;
     clear:both;
